@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { Prenotazione } from './model/prenotazione.model';
 
 @Component({
   selector: 'app-root',
